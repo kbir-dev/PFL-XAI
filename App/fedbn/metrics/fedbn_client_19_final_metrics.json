@@ -1,0 +1,7 @@
+{
+    "client_id": 19,
+    "train_accuracy": 0.9263657927513123,
+    "train_loss": 0.21015320718288422,
+    "test_accuracy": 0.9375,
+    "test_loss": 0.23697766661643982
+}
